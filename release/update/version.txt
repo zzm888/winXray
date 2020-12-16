@@ -1,0 +1,8 @@
+{
+    "description":"发布 v1.6.2，优化代码，修正BUG。",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"1.6.02"
+}
